@@ -1,9 +1,10 @@
-# SpaceShooter 32bit
+# SpaceShooter 
 Final Project : Create a Game using SFML on DT079g Programming Methods 
 
 
 NOTE: In order to run the code, download sfml bin,include and lib from https://www.sfml-dev.org/download.php 
-find tutorial in Youtube how to set up SFML
+find tutorial in Youtube how to set up SFML. 
+NOTE2: Spaceshooter runs with x86 (x32)
 
 
 
