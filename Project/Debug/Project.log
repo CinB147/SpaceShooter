@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  asteroid.cpp
+C:\Users\Alice\OneDrive\Desktop\MIUN\Year2\DT079G-Programmering Metodik\Project\Project\asteroid.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alice\OneDrive\Desktop\MIUN\Year2\DT079G-Programmering Metodik\Project\Project\asteroid.cpp(10,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alice\OneDrive\Desktop\MIUN\Year2\DT079G-Programmering Metodik\Project\Project\asteroid.cpp(35): warning C4715: 'space::Asteroid::getsize': not all control paths return a value
+  Project.vcxproj -> C:\Users\Alice\OneDrive\Desktop\MIUN\Year2\DT079G-Programmering Metodik\Project\Debug\SpaceShooter.exe
